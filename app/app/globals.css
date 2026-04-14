@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@700&display=swap');
+
+:root {
+  --fiji-blue: #00AEEF;
+  --tropical-green: #10B981;
+}
+
+body {
+  font-family: 'Inter', system_ui, sans-serif;
+}
+
+.logo-font {
+  font-family: 'Playfair Display', sans-serif;
+}
